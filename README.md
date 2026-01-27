@@ -5,13 +5,18 @@ Just call me Xero *(pronounce: zero)* or 十三 in Chinese.
 - 📚 Currently: Senior high school learning
 - 🌏 Mother Tongue: Chinese
 - 🌏 Language: Chinese / English
-- 💻 Learning: C++, C#, Java, Rust & Web (for Tauri)
+- 💻 Learning: Java, Python, Rust, LLM
 - ✨ Interests: Programming, Game Dev, AI, and more
-- 🎯 Goal: Do what I want
-- 📖 Working: NOI / NOIP Competition
+- 🎯 Goal: Do what I want :D
+- 📖 Working: [**NCEE**(a.k.a. gaokao)](https://en.wikipedia.org/wiki/Gaokao)
+- ✨ Achievement:
+  - 📕 *CCF.LMCC*: LMCC-T - L3
+  - 📕 *NCRE*: L1/L2/L3
+  - 📕 *CRAC*: Class A
 
 ## Contact
 - 📫 Mail: whitexero@outlook.com
+- 🌐 Website: whitexero.top (WIP)
 - 💬 Telegram: [@WhiteXero](https://t.me/WhiteXero)
 - 🧐 ICQ *(QQ)*, WeChat or Other: Ask me! 
 
