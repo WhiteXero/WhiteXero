@@ -15,8 +15,8 @@ Just call me Xero *(pronounce: zero)* or 十三 in Chinese.
   - 📕 *CRAC*: Class A
 
 ## Contact
-- 📫 Mail: whitexero@outlook.com
-- 🌐 Website: whitexero.top (WIP)
+- 📫 Mail: [whitexero@outlook.com](mailto:whitexero@outlook.com)
+- 🌐 Website: [whitexero.top](https://whitexero.top)
 - 💬 Telegram: [@WhiteXero](https://t.me/WhiteXero)
 - 🧐 ICQ *(QQ)*, WeChat or Other: Ask me! 
 
