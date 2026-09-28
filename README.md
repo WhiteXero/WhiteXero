@@ -2,13 +2,13 @@
 Just call me Xero *(pronounce: zero)* or 十三 in Chinese.
 
 ## About me
-- 📚 Currently: Senior high school learning
+- 📚 Currently: Studying AI
 - 🌏 Mother Tongue: Chinese
 - 🌏 Language: Chinese / English
 - 💻 Learning: Java, Python, Rust, LLM
 - ✨ Interests: Programming, Game Dev, AI, and more
 - 🎯 Goal: Do what I want :D
-- 📖 Working: [**NCEE**(a.k.a. gaokao)](https://en.wikipedia.org/wiki/Gaokao)
+- 📖 Working: N/A
 - ✨ Achievement:
   - 📕 *CCF.LMCC*: LMCC-T - L3
   - 📕 *NCRE*: L1/L2/L3
